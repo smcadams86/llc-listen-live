@@ -1,7 +1,7 @@
 {
-  "name": "alexa-app-example",
+  "name": "llc-listen-live",
   "version": "0.0.1",
-  "description": "An example Alexa Skill project using the alexa-app module with Express.",
+  "description": "An alexa skill app to listen to LLC Live",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/alexa-js/alexa-app-example.git"
+    "url": "git+https://github.com/alexa-js/llc-listen-live.git"
   },
   "keywords": [
     "alexa",
@@ -20,7 +20,7 @@
   "author": "Tejas Shah",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/alexa-js/alexa-app-example/issues"
+    "url": "https://github.com/alexa-js/llc-listen-live/issues"
   },
   "dependencies": {
     "alexa-app": "^4.2.3",
